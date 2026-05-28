@@ -1,0 +1,32 @@
+aid: transport-rest
+name: transport.rest
+description: "Community maintained, developer-friendly public transport API"
+url: https://transport.rest
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: transport.rest
+    description: "Community maintained, developer-friendly public transport API"
+    humanURL: https://transport.rest
+    baseURL: https://transport.rest
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://transport.rest
+common:
+  - type: Website
+    url: https://transport.rest
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
