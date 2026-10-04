@@ -39,7 +39,6 @@ apis:
   - name: transport.rest
     description: "Community maintained, developer-friendly public transport API"
     humanURL: https://transport.rest
-    baseURL: https://transport.rest
     tags:
       - Transportation
     properties:
